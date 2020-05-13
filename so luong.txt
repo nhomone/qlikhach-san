@@ -1,9 +1,1 @@
-<<<<<<< HEAD
 sdafasdfsdfdsfafklakfdsfsad
-=======
-<<<<<<< HEAD
-1212121
-=======
-sdafasdfsdfdsfafklakfdsf
->>>>>>> edd107ad3e9d423dce67835256b80b94b7cb1b9b
->>>>>>> ee6a4b720212b00af8638fe54e88e7d3896bb5ae
